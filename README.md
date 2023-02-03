@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Starting Off
+Create the react app using npx create-react-app .
+
+Use fonts from fonts.google.com for the app. Select the relevant font and the 
+various sizes needed. Currently Roboto is being used wit the following font sizes
+
+Thin 100
+Light 300
+Regular 400
+Medium 500 Italic
+Bold 700
+
+ Use of Material UI for the theme
+
+npm install @mui/material @emotion/react @emotion/styled
+
+and Material icons as well
+
+npm install @mui/icons-material
+
